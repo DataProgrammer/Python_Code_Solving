@@ -1,5 +1,8 @@
 
+'''
+Write a method name diceSum that prompts the user for the desired sum, then repeatedly rolls two six-sided dice until their sum is the desired sum. Also, report each sum.
 
+'''
 
 import random as r;
 class DiceSum:
