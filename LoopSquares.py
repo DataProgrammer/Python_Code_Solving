@@ -1,4 +1,10 @@
 
+'''
+Write a function that produces the following output using for-loop:
+1 4 9 16 25 36 49 64 81 100
+
+
+'''
 
 class LoopSquares:
 	def loopSquares(self):
